@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](.banner.png)
+![banner.png](github-banner.png)
 <hr>
 
 
