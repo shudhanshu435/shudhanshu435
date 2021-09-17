@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Shudhanshu Kumar pursuing B-Tech Degree in Computer Science and Engineering at Institute of Technology Guru Ghasidas Vishwavidyayalaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshu435&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshu435" /> </p>
-<p align="left"> <img src="http://videohive.net/user/xponentialdesign?ref=xponentialdesign" alt="shudhanshu435" /> </p>
+<p align="left"> <img src="(https://github.com/tograh/testrepository/master/3DTest.png)" alt="shudhanshu435" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shudhanshu435" alt="shudhanshu435" /></a> </p>
 
