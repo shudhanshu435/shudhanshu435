@@ -10,7 +10,7 @@
 
 <hr>
 
-![background.png](./images/github-back.jpg)
+![background.png](github-back.jpg)
 
 <br>
 <hr>
