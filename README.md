@@ -5,7 +5,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Shudhanshu Kumar;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?
+color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+ShudhanshuKumar;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
 <hr>
@@ -51,7 +52,7 @@
 <a href="https://discordapp.com/users/shudhanshuKumar#0441/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="shudhanshu435"/></a> <a href="https://www.linkedin.com/in/shudhanshu-kumar-328b171ba" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shudhanshu_linkedIn"/></a> <a href="https://www.instagram.com/its_skp8080/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="shudhanshu435" /></a>
 <br>
 <br>
-<a href="https://twitter.com/@Sudhans51965948" target="blank"><img src="https://img.shields.io/twitter/follow/Sudhanshu51965948?logo=twitter&style=for-the-badge" alt="shudhanshu435" /></a>
+<a href="https://twitter.com/@Sudhans51965948" target="blank"><img src="https://img.shields.io/twitter/follow/@Sudhans51965948?logo=twitter&style=for-the-badge" alt="shudhanshu435" /></a>
 </p>
 
 <hr>
