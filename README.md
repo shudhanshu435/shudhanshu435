@@ -44,7 +44,7 @@
 
 <!-- ----------- CONNECT WITH ME SECTION ------------ -->
 
-![connect-with-me.png](./images/connect-with-me.png)
+![connect-with-me.png](connect-with-me.png)
 
 
 <p align="center">
