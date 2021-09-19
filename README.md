@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shudhanshu435" alt="shudhanshu435" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sudhans51965948" target="blank"><img src="https://img.shields.io/twitter/follow/@sudhans51965948?logo=twitter&style=for-the-badge" alt="@sudhans51965948" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **java**
 
@@ -11,17 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@Sudhans51965948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sudhans51965948" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/shudhanshu-kumar-328b171ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shudhanshu-kumar-328b171ba" height="30" width="40" /></a>
 <a href="https://instagram.com/its_skp8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_skp8080" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sudhanshukumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sudhanshukumar15" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/xxJRYPwAxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xxJRYPwAxu" height="30" width="40" /></a>
 </p>
-
-<hr>
-[![Shudhanshu's github activity graph](https://activity-graph.herokuapp.com/graph?username=shudhanshu435&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
