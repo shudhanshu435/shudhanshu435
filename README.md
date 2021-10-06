@@ -1,7 +1,10 @@
-### Hi there 👋, My name is Shudhanshu Kumar
+<h3> Hi there 👋, My name is Shudhanshu Kumar</h3>
+
 ![](https://cdn.pixabay.com/photo/2017/09/07/08/53/money-2724237_960_720.jpg)
 
 **I am a computer science undergraduate pursuing B-Tech degree in Computer Science and Engineering at Institute of Technology Guru Ghasidas Vishwavidyayala**
+
+![Profile views](https://gpvc.arturio.dev/shudhanshu435)
 
 Skills: **C**
 
@@ -15,16 +18,18 @@ Skills: **C**
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shudhanshu435)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shudhanshu435)](https://github.com/anuraghazra/github-readme-stats)
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Shudhanshu435&column=7&theme=monokaipro&no-frame=true"/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shudhanshu435&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shudhanshu435&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shudhanshu435)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shudhanshu435&theme=nightowl&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shudhanshu435&theme=nightowl)  
+
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shudhanshu435&&theme=nightowl" alt="Shudhanshu-Kumar" /></p> 
 
 ![GitHub metrics](https://metrics.lecoq.io/shudhanshu435)  
-
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shudhanshu435&&theme=tokyonight" alt="Adarsh-Saurabh" /></p> 
-
-![Profile views](https://gpvc.arturio.dev/shudhanshu435)  
+  
