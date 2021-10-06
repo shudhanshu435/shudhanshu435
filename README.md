@@ -1,27 +1,30 @@
-<h1 align="center">Hi 👋There, I'm Shudhanshu Kumar pursuing B-Tech degree in Computer Science and Engineering at Institute of Technology Guru Ghasidas Vishwavidyayala</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shudhanshu435&label=Profile%20views&color=0e75b6&style=flat" alt="shudhanshu435" /> </p>
+### Hi there 👋, My name is Shudhanshu Kumar
+![](https://cdn.pixabay.com/photo/2017/09/07/08/53/money-2724237_960_720.jpg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shudhanshu435" alt="shudhanshu435" /></a> </p>
+**I am a computer science undergraduate pursuing B-Tech degree in Computer Science and Engineering at Institute of Technology Guru Ghasidas Vishwavidyayala**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Skills: **C**
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **java**,**cpp** 
+- 💬 Ask me about **C** 
+- 📫 How to reach me: **sudhanshukumar1242002@gmail.com** 
 
-- 📫 How to reach me **sudhanshukumar1242002@gmail.com**
+![](http://ghacc.org/wp-content/uploads/2018/02/lets-connect.jpg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/shudhanshu-kumar-328b171ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shudhanshu-kumar-328b171ba" height="30" width="40" /></a>
-<a href="https://instagram.com/its_skp8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_skp8080" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sudhanshukumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sudhanshukumar15" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xxJRYPwAxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xxJRYPwAxu" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shudhanshu435)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/shudhanshu-kumar-328b171ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_skp8080/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Sudhans51965948)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/sudhanshukumar15?hr_r=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/skp1242/profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/skp124)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shudhanshu435&show_icons=true&locale=en&layout=compact" alt="shudhanshu435" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shudhanshu435)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shudhanshu435&show_icons=true&locale=en" alt="shudhanshu435" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shudhanshu435)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shudhanshu435&" alt="shudhanshu435" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shudhanshu435&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shudhanshu435)  
+
+![GitHub metrics](https://metrics.lecoq.io/shudhanshu435)  
+
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shudhanshu435&&theme=tokyonight" alt="Adarsh-Saurabh" /></p> 
+
+![Profile views](https://gpvc.arturio.dev/shudhanshu435)  
