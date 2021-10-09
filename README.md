@@ -1,8 +1,8 @@
-<h3> Hi there 👋, My name is Shudhanshu Kumar</h3>
+<h2>Hi there 👋, My name is Shudhanshu Kumar</h2>
 
 ![](https://blogs.microsoft.com/uploads/2016/04/Invisible-revolution-GIF.gif)
 
-**I am a computer science undergraduate pursuing B-Tech degree in Computer Science and Engineering at Institute of Technology Guru Ghasidas Vishwavidyayala**
+<h3>I am a computer science undergraduate pursuing B-Tech degree in Computer Science and Engineering in Institute of Technology Guru Ghasidas Vishwavidyayala</h3>
 
 ![Profile views](https://gpvc.arturio.dev/shudhanshu435)
 
