@@ -1,6 +1,6 @@
 <h3> Hi there 👋, My name is Shudhanshu Kumar</h3>
 
-![](https://cdn.pixabay.com/photo/2017/09/07/08/53/money-2724237_960_720.jpg)
+![](https://blogs.microsoft.com/uploads/2016/04/Invisible-revolution-GIF.gif)
 
 **I am a computer science undergraduate pursuing B-Tech degree in Computer Science and Engineering at Institute of Technology Guru Ghasidas Vishwavidyayala**
 
