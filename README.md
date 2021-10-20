@@ -9,7 +9,9 @@
 Skills: **C**
 
 - 🌱 I’m currently learning **java**,**cpp** 
+- 
 - 💬 Ask me about **C** 
+- 
 - 📫 How to reach me: **sudhanshukumar1242002@gmail.com** 
 
 ![](http://ghacc.org/wp-content/uploads/2018/02/lets-connect.jpg)
