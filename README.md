@@ -45,7 +45,11 @@ Skills: **C**, **C++**
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shudhanshu435&theme=nightowl)  
 
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shudhanshu435&&theme=nightowl" alt="Shudhanshu-Kumar" /></p> 
+<p align = "left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shudhanshu435&&theme=nightowl" alt="Shudhanshu-Kumar" /></p> 
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 ![GitHub metrics](https://metrics.lecoq.io/shudhanshu435)  
   
