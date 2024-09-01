@@ -6,7 +6,8 @@
 </div>
 
 
-<h3>I am a computer science undergraduate pursuing B-Tech degree in Computer Science and Engineering at Institute of Technology Guru Ghasidas Vishwavidyayala</h3>
+<h3>Recent BTech CSEgraduate with a strong foundation in software development and competitive programming, skilled in C/C++, Python, Django, and front-end technologies including HTML/CSS/JavaScript. 
+ Passionate about the software development industry, eager to contribute skills in building robust applications and solving complex challenges in a professional environment.</h3>
 
 ![Profile views](https://gpvc.arturio.dev/shudhanshu435)
 
