@@ -14,7 +14,7 @@ I’m an aspiring Software Developer and a Fresh Graduate with a strong passion 
 
  <details>
 
-<summary><h4> 💻 What I Do: </h2></summary>
+<summary><h2> 💻 What I Do: </h2></summary>
 
 - Programming Proficiency: Skilled in Python, C++, and SQL, focusing on building robust and efficient systems.
 - Web Development: Experience in backend frameworks like Django and Django REST Framework.
@@ -26,7 +26,7 @@ I’m an aspiring Software Developer and a Fresh Graduate with a strong passion 
 
 <details>
 <!--   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary> -->
-   <summary><h4> 📚 Academics</h2></summary>
+   <summary><h2> 📚 Academics</h2></summary>
 
    <span><img src="https://img.shields.io/badge/BTECH-GGU_CSE'24-1877F2?style=for-the-badge"></span>
    <span><img src="https://img.shields.io/badge/GPA-8.97/10.0-EFEEE9?style=for-the-badge"></span>
@@ -34,7 +34,7 @@ I’m an aspiring Software Developer and a Fresh Graduate with a strong passion 
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
+  <summary><h2> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="29"/> Coding Handles</h2></summary>
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/skp190/)
   [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/skp0114)
@@ -47,7 +47,7 @@ I’m an aspiring Software Developer and a Fresh Graduate with a strong passion 
 
 <details>
 <!--   <summary><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary> -->
-<summary><h4>🌐 Tech Stack</h2></summary> 
+<summary><h2>🌐 Tech Stack</h2></summary> 
 
   #### Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -68,36 +68,91 @@ I’m an aspiring Software Developer and a Fresh Graduate with a strong passion 
 
 </details>
 
-Skills: **C**, **C++**
+<details>
+  <summary><h2> 💡 Projects</h2></summary>
 
-- 🌱 I’m currently learning **python**, **cpp** 
+  #### <a href="">Library Management System</a>
+  <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></span>  
+ - Developed a Django-based Library Management System enabling students to borrow books and librarians to manage
+ inventory efficiently.
+ - Implemented authentication and authorization to secure the system and designed an intuitive interface for librarians
+ and borrowers.
+ - Key features include tracking issued books, monitoring availability, and managing book records with options to add,
+ deactivate, or update.
 
-- 💬 Ask me about **C** 
- 
-- 📫 How to reach me: **sudhanshukumar1242002@gmail.com** 
+  #### <a href="">IndiMall</a>
+  <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/REST%20API-%2300599C.svg?style=for-the-badge&logo=api&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></span>  
+ - Created a Django web application for locating nearby malls with details on layout, floors, parking, shops, brands, and
+ customer reviews.
+ - Integrated a flexible rating system, allowing users to rate and review malls and shops on a 1 to 5-star scale.
+ - Enabled users to view mall and shop ratings, access current offers, and subscribe to notifications for the latest
+ promotions.
 
-![](http://ghacc.org/wp-content/uploads/2018/02/lets-connect.jpg)
+</details>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shudhanshu435)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/shudhanshu-kumar-328b171ba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_skp8080/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Sudhans51965948)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/sudhanshukumar15?hr_r=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/skp1242/profile)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/skp190/)  
+<details>
+  <summary><h2> 🚀 Stats</h2></summary>
 
+  ### Leetcode
+  <div align="center">
+  <a href="https://leetcode.com/skp190/">
+  <img height="316" src="https://leetcard.jacoblin.cool/skp190?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/skp190/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Shudhanshu Leetcode Stats"/>
+  </a>
+ </div>
 
+  ### Codeforces
+  <div align="center">
+    <a href="https://codeforces.com/profile/skp0114">
+      <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=skp0114&theme=github_dark&force_username=true&border_color=404040" alt="Shudhanshu Codeforces Stats"/>
+    </a>
+  </div>
+  
+  ### GitHub
+  <div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+   ![](https://github-readme-stats.vercel.app/api?username=shudhanshu435&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=shudhanshu435&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shudhanshu435&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=shudhanshu435&theme=tokyo-night)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shudhanshu435)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>
+  <div align="center">
+   
+  [![trophy](https://github-profile-trophy.vercel.app/?username=shudhanshu435)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  </div>
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shudhanshu435&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shudhanshu435&theme=nightowl&show_icons=true&count_private=true)  
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
+  <a href="https://github.com/shudhanshu435">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Github.gif" width="70"/>
+  </a>
+  <a href="http://www.linkedin.com/in/shudhanshu-kumar-328b171ba">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Linkedin.gif" width="70"/>
+  </a>
+</div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shudhanshu435&theme=nightowl)  
+</details>
 
-<p align = "left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shudhanshu435&&theme=nightowl" alt="Shudhanshu-Kumar" /></p> 
+## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+<p> 
+  <i>You can reach out to me via</i> 
+  &nbsp;<a href="mailto:itsofficial.shudhanshu@gmail.com">
+    <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/Gmail.gif" alt="Gmail" width="100"/>
+  </a>
 </p>
 
-![GitHub metrics](https://metrics.lecoq.io/shudhanshu435)  
+## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
+
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+   
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
   
+  </div>
+</details>
